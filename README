@@ -1,1 +1,11 @@
 This is a project to learn lua.
+
+STRUCTURE:
+XX-NAME
+(
+XX - Tutorial #
+NAME - Name of the tutorial
+)
+
+Each folder contains info.md
+They may include main.lua files.
