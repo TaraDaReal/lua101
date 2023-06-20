@@ -4,11 +4,11 @@ Today you'll learn how to use:\
 Variables\
 Do math\
 Print Text to screen\
-Comments\
+Comments
 
-# Printing Text\
+# Printing Text
 Write print("X") where X is text you want to print.\
-If you want to print number I'd recommend writing the number without Speech Marks (not print("number"), but print(number))\
+If you want to print number I'd recommend writing the number without Speech Marks (not print("number"), but print(number))
 
 # Variables
 
@@ -24,13 +24,13 @@ You can print math results like "print(15 + 2) (OUTPUTS: 17)", etc.\
 
 You can set a variable's value to a math operation like:\
 local addition = 5 + 6\
-print(addition)\
+print(addition)
 
-(OUTPUT: 11)\
+(OUTPUT: 11)
 
 # Comments
 
 Are like text that the LUA Interpreter(program that reads and runs the code)  ignores.\
 Defined by --\
 Example:\
-print(69) -- Prints 69 to the screen\
+print(69) -- Prints 69 to the screen
